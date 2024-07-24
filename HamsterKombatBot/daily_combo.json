@@ -1,4 +1,8 @@
 {
-    "combo": ["mini_game","bitcoin_pizza_day","hamster_youtube_channel"],
-    "expired": 1721822400
+  "combo": [
+    "hamster_youtube_gold_button",
+    "villa_for_dev_team",
+    "telegram_miniapp_launch"
+  ],
+  "expired": 1721908800
 }
