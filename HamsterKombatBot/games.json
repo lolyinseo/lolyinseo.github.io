@@ -1,0 +1,20 @@
+"promos": {
+	"loginAttemptTimeoutSec": 15,
+	"loginSameIpLimitSec": 600,
+	"loginSameIpLimitCount": 20,
+	"loginSessionTimeoutSec": 86400,
+	"registerEventTimeoutSec": 20,
+	"apps": [{
+		"token": "d28721be-fd2d-4b45-869e-9f253b554e50",
+		"blocked": false,
+		"promos": [{
+			"promoId": "43e35910-c168-4634-ad4f-52fd764a843f",
+			"prefix": "BIKE",
+			"eventsCount": 5,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+		}]
+	}]
+}
