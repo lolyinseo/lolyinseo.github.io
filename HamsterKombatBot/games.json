@@ -1,3 +1,4 @@
+{
 "promos": {
 	"loginAttemptTimeoutSec": 15,
 	"loginSameIpLimitSec": 600,
@@ -15,6 +16,7 @@
 			"keysPerDay": 4,
 			"keysPerCode": 1,
 			"blocked": false
+			}]
 		}]
-	}]
+	}
 }
