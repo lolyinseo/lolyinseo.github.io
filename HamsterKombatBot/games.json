@@ -26,7 +26,7 @@
 		"promos": [{
 			"promoId": "b4170868-cef0-424f-8eb9-be0622e8e8e3",
 			"prefix": "CUBE",
-			"eventsCount": 5,
+			"eventsCount": 6,
 			"codesPerDay": 4,
 			"keysPerDay": 4,
 			"keysPerCode": 1,
@@ -40,7 +40,7 @@
 		"promos": [{
 			"promoId": "fe693b26-b342-4159-8808-15e3ff7f8767",
 			"prefix": "CLONE",
-			"eventsCount": 5,
+			"eventsCount": 2,
 			"codesPerDay": 4,
 			"keysPerDay": 4,
 			"keysPerCode": 1,
@@ -54,7 +54,7 @@
 		"promos": [{
 			"promoId": "c4480ac7-e178-4973-8061-9ed5b2e17954",
 			"prefix": "TRAIN",
-			"eventsCount": 5,
+			"eventsCount": 1,
 			"codesPerDay": 4,
 			"keysPerDay": 4,
 			"keysPerCode": 1,
