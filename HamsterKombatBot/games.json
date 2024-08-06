@@ -17,6 +17,19 @@
 			"keysPerCode": 1,
 			"blocked": false
 			}]
+		},
+		{
+		"token": "d1690a07-3780-4068-810f-9b5bbf2931b2",
+		"blocked": false,
+		"promos": [{
+			"promoId": "b4170868-cef0-424f-8eb9-be0622e8e8e3",
+			"prefix": "Chain Cube 2048",
+			"eventsCount": 5,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
 		}]
 	}
 }
