@@ -23,7 +23,33 @@
 		"blocked": false,
 		"promos": [{
 			"promoId": "b4170868-cef0-424f-8eb9-be0622e8e8e3",
-			"prefix": "Chain Cube 2048",
+			"prefix": "CUBE",
+			"eventsCount": 5,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
+		"token": "74ee0b5b-775e-4bee-974f-63e7f4d5bacb",
+		"blocked": false,
+		"promos": [{
+			"promoId": "fe693b26-b342-4159-8808-15e3ff7f8767",
+			"prefix": "CLONE",
+			"eventsCount": 5,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
+		"token": "82647f43-3f87-402d-88dd-09a90025313f",
+		"blocked": false,
+		"promos": [{
+			"promoId": "c4480ac7-e178-4973-8061-9ed5b2e17954",
+			"prefix": "TRAIN",
 			"eventsCount": 5,
 			"codesPerDay": 4,
 			"keysPerDay": 4,
