@@ -48,6 +48,20 @@
 			}]
 		},
 		{
+		"token": "8d1cc2ad-e097-4b86-90ef-7a27e19fb833",
+		"blocked": false,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "dc128d28-c45b-411c-98ff-ac7726fbaea4",
+			"prefix": "MERGE",
+			"eventsCount": 2,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
