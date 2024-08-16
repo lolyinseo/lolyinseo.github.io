@@ -33,6 +33,19 @@
 			"blocked": false
 			}]
 		},
+		"token": "61308365-9d16-4040-8bb0-2f4a4c69074c",
+		"blocked": false,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "61308365-9d16-4040-8bb0-2f4a4c69074c",
+			"prefix": "TWERK",
+			"eventsCount": 6,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
 		{
 		"token": "74ee0b5b-775e-4bee-974f-63e7f4d5bacb",
 		"blocked": false,
