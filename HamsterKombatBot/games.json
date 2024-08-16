@@ -33,6 +33,7 @@
 			"blocked": false
 			}]
 		},
+		{
 		"token": "61308365-9d16-4040-8bb0-2f4a4c69074c",
 		"blocked": false,
 		"registerEventTimeoutSec": 20,
