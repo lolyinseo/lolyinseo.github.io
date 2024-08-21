@@ -34,6 +34,20 @@
 			}]
 		},
 		{
+		"token": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
+		"blocked": false,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71",
+			"prefix": "POLY",
+			"eventsCount": 16,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "61308365-9d16-4040-8bb0-2f4a4c69074c",
 		"blocked": false,
 		"registerEventTimeoutSec": 20,
