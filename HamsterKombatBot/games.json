@@ -82,7 +82,7 @@
 		"promos": [{
 			"promoId": "dc128d28-c45b-411c-98ff-ac7726fbaea4",
 			"prefix": "MERGE",
-			"eventsCount": 2,
+			"eventsCount": 7,
 			"codesPerDay": 4,
 			"keysPerDay": 4,
 			"keysPerCode": 1,
