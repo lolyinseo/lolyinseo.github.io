@@ -68,7 +68,7 @@
 		"promos": [{
 			"promoId": "fe693b26-b342-4159-8808-15e3ff7f8767",
 			"prefix": "CLONE",
-			"eventsCount": 2,
+			"eventsCount": 5,
 			"codesPerDay": 4,
 			"keysPerDay": 4,
 			"keysPerCode": 1,
