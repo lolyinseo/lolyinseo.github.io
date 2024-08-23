@@ -90,6 +90,34 @@
 			}]
 		},
 		{
+		"token": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
+		"blocked": false,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "ef319a80-949a-492e-8ee0-424fb5fc20a6",
+			"prefix": "TRIM",
+			"eventsCount": 8,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
+		"token": "8814a785-97fb-4177-9193-ca4180ff9da8",
+		"blocked": false,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "8814a785-97fb-4177-9193-ca4180ff9da8",
+			"prefix": "RACE",
+			"eventsCount": 6,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
