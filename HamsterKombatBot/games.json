@@ -146,6 +146,20 @@
 			}]
 		},
 		{
+		"token": "b6de60a0-e030-48bb-a551-548372493523",
+		"blocked": false,
+		"registerEventTimeoutSec": 40,
+		"promos": [{
+			"promoId": "c7821fa7-6632-482c-9635-2bd5798585f9",
+			"prefix": "GANGS",
+			"eventsCount": 12,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
