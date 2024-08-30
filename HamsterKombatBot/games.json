@@ -105,7 +105,7 @@
 		},
 		{
 		"token": "8814a785-97fb-4177-9193-ca4180ff9da8",
-		"blocked": false,
+		"blocked": true,
 		"registerEventTimeoutSec": 20,
 		"promos": [{
 			"promoId": "8814a785-97fb-4177-9193-ca4180ff9da8",
