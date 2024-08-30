@@ -132,6 +132,20 @@
 			}]
 		},
 		{
+		"token": "b2436c89-e0aa-4aed-8046-9b0515e1c46b",
+		"blocked": false,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "b2436c89-e0aa-4aed-8046-9b0515e1c46b",
+			"prefix": "ZOOP",
+			"eventsCount": 5,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
