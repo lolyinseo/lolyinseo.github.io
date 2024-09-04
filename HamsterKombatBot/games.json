@@ -161,7 +161,7 @@
 		},
 		{
 		"token": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
-		"blocked": true,
+		"blocked": false,
 		"registerEventTimeoutSec": 20,
 		"promos": [{
 			"promoId": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
@@ -175,7 +175,7 @@
 		},
 		{
 		"token": "112887b0-a8af-4eb2-ac63-d82df78283d9",
-		"blocked": true,
+		"blocked": false,
 		"registerEventTimeoutSec": 120,
 		"promos": [{
 			"promoId": "112887b0-a8af-4eb2-ac63-d82df78283d9",
