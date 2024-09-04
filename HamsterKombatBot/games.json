@@ -160,6 +160,34 @@
 			}]
 		},
 		{
+		"token": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
+		"blocked": true,
+		"registerEventTimeoutSec": 20,
+		"promos": [{
+			"promoId": "e68b39d2-4880-4a31-b3aa-0393e7df10c7",
+			"prefix": "TRIO",
+			"eventsCount": 5,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
+		"token": "112887b0-a8af-4eb2-ac63-d82df78283d9",
+		"blocked": true,
+		"registerEventTimeoutSec": 120,
+		"promos": [{
+			"promoId": "112887b0-a8af-4eb2-ac63-d82df78283d9",
+			"prefix": "FLUFF",
+			"eventsCount": 1,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
