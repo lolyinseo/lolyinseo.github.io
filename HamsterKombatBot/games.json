@@ -188,6 +188,20 @@
 			}]
 		},
 		{
+		"token": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
+		"blocked": false,
+		"registerEventTimeoutSec": 15,
+		"promos": [{
+			"promoId": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
+			"prefix": "STONE",
+			"eventsCount": 10,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
