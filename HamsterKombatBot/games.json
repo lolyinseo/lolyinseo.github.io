@@ -202,6 +202,20 @@
 			}]
 		},
 		{
+		"token": "bc72d3b9-8e91-4884-9c33-f72482f0db37",
+		"blocked": false,
+		"registerEventTimeoutSec": 60,
+		"promos": [{
+			"promoId": "bc72d3b9-8e91-4884-9c33-f72482f0db37",
+			"prefix": "BOUNCE",
+			"eventsCount": 1,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
+			"keysPerCode": 1,
+			"blocked": false
+			}]
+		},
+		{
 		"token": "82647f43-3f87-402d-88dd-09a90025313f",
 		"blocked": false,
 		"registerEventTimeoutSec": 120,
