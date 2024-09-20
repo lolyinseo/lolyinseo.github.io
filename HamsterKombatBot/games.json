@@ -181,8 +181,8 @@
 			"promoId": "112887b0-a8af-4eb2-ac63-d82df78283d9",
 			"prefix": "FLUFF",
 			"eventsCount": 1,
-			"codesPerDay": 8,
-			"keysPerDay": 8,
+			"codesPerDay": 4,
+			"keysPerDay": 4,
 			"keysPerCode": 1,
 			"blocked": false
 			}]
